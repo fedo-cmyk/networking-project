@@ -29,7 +29,7 @@ RUN FROM A TERMINAL
 RUN BY HAND (5 terminals, from this folder)
   python server.py
   python client.py 1        (then 2, 3, 4 in other terminals)
-  Options: server.py --port --rate --log-dir ; client.py --server-host --server-port --window
+  Options: server.py --port --log-dir ; client.py --server-host --server-port --window
            --timeout --attempts --max-seconds --chunks --log-dir --output-dir
   For several computers: python client.py 1 --server-host <server IP>
 

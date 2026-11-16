@@ -1,11 +1,4 @@
-"""client.py - el client bta3 CartoSwap/1 (Phase 1).
 
-El client beyb3at INIT lel server w beyakhod PEER_LIST (raqmo w el peers), ba3dein beyeTlob
-el chunks bta3et el slice bta3o b CHUNK_REQ w beyestaqbelhom b CHUNK_DATA. kol chunk
-beyetcheck b make_chunk, w law mawsalsh fi 500 ms beyetb3at tani. el natee3a betetkateb
-fel results/ (el chunks el magmo3a + summary JSON) w el packets fel logs/.
-Tashghil: python client.py <raqm el client 1 le 4>   (aw run_baseline.py beyshaghalhom kolohom)
-"""
 import argparse
 import hashlib
 import json
@@ -18,7 +11,7 @@ from pathlib import Path
 import protocol as p
 
 
-# ===== el class el asasy =====
+
 # Phase1Client beyeHfaz kol 7aga el client yehtagha: el socket, el peers, el chunks elly wasalet,
 # el requests el mestanniya (pending), w el statistics.
 class Phase1Client:
@@ -96,7 +89,7 @@ class Phase1Client:
         self.stats['invalid_packets'] += 1
         print(f'client {self.args.number}: ignored {reason}', flush=True)
 
-    # ===== el join =====
+
     # beyb3at INIT w beyestanna PEER_LIST. law mawsalsh fi 500 ms beyeb3at tani (le7ad --attempts).
     # el ID elly byegi men el server hwa elly beyeHdded el slice, mesh raqm el command line.
     def join(self):

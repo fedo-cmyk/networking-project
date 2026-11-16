@@ -1,10 +1,4 @@
-"""protocol.py - el file el moshtarak ben server.py w client.py (CartoSwap/1).
 
-Gowwah: shakl el header (el envelope 12 byte), pack/unpack, el payload helpers,
-el chunks el sabta, w el PacketLog. El server w el client byestakhdemo nafs el
-file 3ashan yeb2o 7afzeen nafs el kawa3ed (ghalta wa7da fel tarteeb betkharab el bytes).
-Python standard library bas, w byeshta3'al 3ala Linux w Windows.
-"""
 import hashlib
 import socket
 import struct
@@ -24,8 +18,8 @@ MAX_PAYLOAD = MAX_DATAGRAM - HEADER_SIZE     # = 1188 byte lel payload
 
 # ===== anwa3 el rasayel w el flags =====
 # el no3 beyetkateb fel 4 bits el so3'ayyara men byte raqm 2. kol flag bit wa7ed fel byte raqm 3.
-INIT, PEER_LIST, HEARTBEAT, CHUNK_BITMAP, CHUNK_REQ, CHUNK_DATA, MAP_COMPLETE = range(7)
-TYPE_NAMES = ["INIT", "PEER_LIST", "HEARTBEAT", "CHUNK_BITMAP",
+INIT, PEER_LIST, PEER_HEARTBEAT, CHUNK_BITMAP, CHUNK_REQ, CHUNK_DATA, MAP_COMPLETE = range(7)
+TYPE_NAMES = ["INIT", "PEER_LIST", "PEER_HEARTBEAT", "CHUNK_BITMAP",
               "CHUNK_REQ", "CHUNK_DATA", "MAP_COMPLETE"]
 FLAG_RETX = 0x01              # el packet da e3adet ersal
 FLAG_REPLY = 0x02             # el HEARTBEAT da rad 3ala ping
