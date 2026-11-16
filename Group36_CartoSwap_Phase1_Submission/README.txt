@@ -22,6 +22,13 @@ REQUIREMENTS
 
 
 RUN FROM A TERMINAL
+
+From the Group36_CartoSwap_Phase1_Submission folder, first enter the project folder:
+
+  cd CartoSwap_Phase1
+
+Then run:
+
   python run_baseline.py                   one baseline run
   python run_baseline.py --runs 3          three runs
   python run_baseline.py --chunks 8        quick test with 8 chunks per client
