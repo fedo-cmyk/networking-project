@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9a343c5-d17c-40cc-9a6f-011ef9cb8ed9" name="Changes" comment="final">
-      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/Group36_MiniRFC_Sections1-3.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/docs/Group36_MiniRFC_Sections1-3.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/Group36_Proposal.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/docs/Group36_Proposal.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/docs/Group36_Proposal.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/docs/Group36_Proposal.docx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1794855055443</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="final">
+      <option name="closed" value="true" />
+      <created>1794855159198</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1794855159198</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
