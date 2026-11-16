@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9a343c5-d17c-40cc-9a6f-011ef9cb8ed9" name="Changes" comment="final">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/docs/Group36_Proposal.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/docs/Group36_Proposal.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/README.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1794853390347</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="final">
+      <option name="closed" value="true" />
+      <created>1794853755655</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1794853755655</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
