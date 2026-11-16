@@ -19,11 +19,6 @@ FILES
 REQUIREMENTS
   Python 3.9+ . Standard library only. No pip install. Linux, macOS or Windows.
 
-RUN IN PYCHARM (easiest)
-  1. File > Open... and choose this folder.
-  2. Settings > Project > Python Interpreter: pick any Python 3.9+.
-  3. Right-click run_baseline.py > Run 'run_baseline'.
-  4. On Windows, press "Allow access" if the firewall asks.
 
 RUN FROM A TERMINAL
   python run_baseline.py                   one baseline run
