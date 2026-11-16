@@ -180,7 +180,7 @@ def main():
         for item in failures:
             print(' -', item)
         return 1
-    print('BASELINE PASS: All four clients successfully received their assigned chunks in under 5 seconds, and server bandwidth remained below 50 kbps.')
+    print('BASELINE PASS (Phase 1 scope: server seeding): every client received its 64-chunk slice in under 5 s, and server bandwidth stayed under 50 kbps.')
     print('(Phase 1: Initial server seeding only, with 64 chunks per client. Full peer-to-peer map distribution will be implemented in Phase 2.)')
     return 0
 

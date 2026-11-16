@@ -1,5 +1,10 @@
 CartoSwap/1 - Phase 1   (Group 36, CSE361 Computer Networks, Fall 2026, Project 1: P2P-CASP)
 
+SCOPE (Phase 1): The baseline checks the server-seeding stage. Each of the 4 clients
+receives its own 64-chunk slice (4 x 64 = all 256 chunks) in under 5 s, with the
+server at or under 50 kbps. This is what the Phase 1 brief asks for (INIT and DATA
+exchange + baseline script).
+
 Team:
 Razan Mohamed Mahmoud Ahmed Mohamed ElBanna — 24P0001
 Fahd Khaled Mohamed Hassan Khataan — 24P0073
