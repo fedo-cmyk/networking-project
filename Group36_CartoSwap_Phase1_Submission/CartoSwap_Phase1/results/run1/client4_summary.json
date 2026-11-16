@@ -7,22 +7,22 @@
     "127.0.0.1",
     9000
   ],
-  "listen_port": 56705,
+  "listen_port": 59739,
   "known_peers": [
     [
       1,
       "127.0.0.1",
-      56702
+      59736
     ],
     [
       2,
       "127.0.0.1",
-      56703
+      59737
     ],
     [
       3,
       "127.0.0.1",
-      56704
+      59738
     ]
   ],
   "chunk_ids": [
@@ -96,7 +96,7 @@
   "full_map_complete": false,
   "bytes_assembled": 3072,
   "sha256": "bd34125799f1e310325f6178656a8a3587b8e8de563b2060aaac8fc7019250a8",
-  "seed_download_time_ms": 4031.0,
+  "seed_download_time_ms": 4047.0,
   "sent_packets": 65,
   "received_packets": 65,
   "invalid_packets": 0,

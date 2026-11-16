@@ -7,7 +7,7 @@
     "127.0.0.1",
     9000
   ],
-  "listen_port": 63944,
+  "listen_port": 58240,
   "known_peers": [],
   "chunk_ids": [
     0,
@@ -80,7 +80,7 @@
   "full_map_complete": false,
   "bytes_assembled": 3072,
   "sha256": "a79caedf092930fc0f7246d841c2ef49cc601406cd9a28fa3f344f8c830b9c7e",
-  "seed_download_time_ms": 4906.0,
+  "seed_download_time_ms": 3719.0,
   "sent_packets": 65,
   "received_packets": 65,
   "invalid_packets": 0,
