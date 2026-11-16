@@ -1,5 +1,0 @@
-run,client,ok,peer_id,chunks,completion_ms,retransmissions,duplicates,invalid
-1,1,True,1,64,3672.0,0,0,0
-1,2,True,2,64,3922.0,0,0,0
-1,3,True,3,64,3984.0,0,0,0
-1,4,True,4,64,4032.0,0,0,0

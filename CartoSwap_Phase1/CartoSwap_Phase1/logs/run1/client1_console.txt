@@ -1,3 +1,0 @@
-client 1: joined as peer 1; port 60749; 0 known peers; seed chunks 0..63
-client 1: 64/64 seed chunks verified in 3672 ms; 0 retransmissions; 0 duplicates
-Saved C:\Users\fedoo\Downloads\CartoSwap_Phase1\CartoSwap_Phase1\results\run1\client1_seed.bin and C:\Users\fedoo\Downloads\CartoSwap_Phase1\CartoSwap_Phase1\results\run1\client1_summary.json
