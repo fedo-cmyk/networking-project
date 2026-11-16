@@ -8,7 +8,7 @@ import protocol as p
 
 HOST = '0.0.0.0'
 NETWORK_OVERHEAD = 28
-RATE_BYTES_PER_SEC = 5000
+RATE_BYTES_PER_SEC = 6000
 
 
 def main():

@@ -12,7 +12,7 @@ Farah Khaled Ahmed Hussein — 24P0123
 
 FILES
   protocol.py     shared header, message types, pack/unpack, chunk generator, CSV packet log
-  server.py       UDP tracker + rate-limited seeder (port 9000, 5,000 B/s incl. IP/UDP overhead)
+  server.py       UDP tracker + rate-limited seeder (port 9000, 6,000 B/s incl. IP/UDP overhead)
   client.py       client: INIT -> PEER_LIST -> downloads its 64-chunk slice (window 4, 500 ms retry)
   run_baseline.py starts 1 server + 4 clients, checks "< 5 s" and "<= 50 kbps", prints PASS/FAIL
   docs/           Proposal, Mini-RFC (sections 1-3)
@@ -37,5 +37,4 @@ OUTPUT
   logs/runN/server_packets.csv, clientK_packets.csv   every packet with time, type, seq, bytes
   results/runN/clientK_summary.json, clientK_seed.bin  per-client result and assembled slice
   results/baseline_summary.csv, baseline_server.csv    table of all runs (times, retx, duplicates, kbps)
-  Expected: every client finishes in about 4.2-4.7 s, server peak about 40 kbps, 0 retransmissions.
-
+  Expected: every client finishes in under 5 s, server peak under 50 kbps, 0 retransmissions.

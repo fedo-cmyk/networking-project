@@ -1,0 +1,3 @@
+client 3: joined as peer 3; port 58497; 2 known peers; seed chunks 128..191
+client 3: 64/64 seed chunks verified in 5312 ms; 0 retransmissions; 0 duplicates
+Saved C:\Users\fedoo\PycharmProjects\networking-project\Group36_CartoSwap_Phase1_Submission\CartoSwap_Phase1\results\run2\client3_seed.bin and C:\Users\fedoo\PycharmProjects\networking-project\Group36_CartoSwap_Phase1_Submission\CartoSwap_Phase1\results\run2\client3_summary.json
