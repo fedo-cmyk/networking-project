@@ -1,0 +1,3 @@
+client 3: joined as peer 3; port 33454; 2 known peers; seed chunks 128..191
+client 3: 64/64 seed chunks verified in 4604 ms; 0 retransmissions; 0 duplicates
+Saved /tmp/claude-0/-home-claude/3281fc0b-df2e-58b0-9447-1ace0c4d8a3e/scratchpad/final/CartoSwap_Phase1/results/run3/client3_seed.bin and /tmp/claude-0/-home-claude/3281fc0b-df2e-58b0-9447-1ace0c4d8a3e/scratchpad/final/CartoSwap_Phase1/results/run3/client3_summary.json

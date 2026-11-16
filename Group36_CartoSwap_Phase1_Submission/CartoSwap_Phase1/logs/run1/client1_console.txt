@@ -1,0 +1,3 @@
+client 1: joined as peer 1; port 34176; 0 known peers; seed chunks 0..63
+client 1: 64/64 seed chunks verified in 4261 ms; 0 retransmissions; 0 duplicates
+Saved /tmp/claude-0/-home-claude/3281fc0b-df2e-58b0-9447-1ace0c4d8a3e/scratchpad/final/CartoSwap_Phase1/results/run1/client1_seed.bin and /tmp/claude-0/-home-claude/3281fc0b-df2e-58b0-9447-1ace0c4d8a3e/scratchpad/final/CartoSwap_Phase1/results/run1/client1_summary.json

@@ -1,0 +1,3 @@
+client 4: joined as peer 2; port 43314; 1 known peers; seed chunks 64..127
+client 4: 64/64 seed chunks verified in 4520 ms; 0 retransmissions; 0 duplicates
+Saved /tmp/claude-0/-home-claude/3281fc0b-df2e-58b0-9447-1ace0c4d8a3e/scratchpad/final/CartoSwap_Phase1/results/run2/client4_seed.bin and /tmp/claude-0/-home-claude/3281fc0b-df2e-58b0-9447-1ace0c4d8a3e/scratchpad/final/CartoSwap_Phase1/results/run2/client4_summary.json
