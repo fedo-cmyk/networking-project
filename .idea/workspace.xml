@@ -5,9 +5,62 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9a343c5-d17c-40cc-9a6f-011ef9cb8ed9" name="Changes" comment="final">
-      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/client.py" beforeDir="false" afterPath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/client.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/protocol.py" beforeDir="false" afterPath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/protocol.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/logs/run1/client1_console.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/logs/run1/client1_packets.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/logs/run1/client2_console.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/logs/run1/client2_packets.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/logs/run1/client3_console.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/logs/run1/client3_packets.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/logs/run1/client4_console.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/logs/run1/client4_packets.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/logs/run1/server_console.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/logs/run1/server_packets.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/logs/run2/client1_console.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/logs/run2/client1_packets.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/logs/run2/client2_console.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/logs/run2/client2_packets.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/logs/run2/client3_console.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/logs/run2/client3_packets.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/logs/run2/client4_console.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/logs/run2/client4_packets.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/logs/run2/server_console.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/logs/run2/server_packets.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/logs/run3/client1_console.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/logs/run3/client1_packets.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/logs/run3/client2_console.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/logs/run3/client2_packets.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/logs/run3/client3_console.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/logs/run3/client3_packets.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/logs/run3/client4_console.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/logs/run3/client4_packets.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/logs/run3/server_console.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/logs/run3/server_packets.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/results/baseline_server.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/results/baseline_summary.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/results/run1/client1_seed.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/results/run1/client1_summary.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/results/run1/client2_seed.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/results/run1/client2_summary.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/results/run1/client3_seed.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/results/run1/client3_summary.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/results/run1/client4_seed.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/results/run1/client4_summary.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/results/run2/client1_seed.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/results/run2/client1_summary.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/results/run2/client2_seed.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/results/run2/client2_summary.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/results/run2/client3_seed.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/results/run2/client3_summary.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/results/run2/client4_seed.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/results/run2/client4_summary.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/results/run3/client1_seed.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/results/run3/client1_summary.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/results/run3/client2_seed.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/results/run3/client2_summary.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/results/run3/client3_seed.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/results/run3/client3_summary.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/results/run3/client4_seed.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group36_CartoSwap_Phase1_Submission/CartoSwap_Phase1/results/run3/client4_summary.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1794848931677</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="final">
+      <option name="closed" value="true" />
+      <created>1794851048055</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1794851048055</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
